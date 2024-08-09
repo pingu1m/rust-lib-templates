@@ -1,4 +1,4 @@
-use your_crate::preludes::*;
+use {{ crate_name }}::preludes::*; // Assuming this imports everything needed for basic usage
 
 fn main() {
     let dividend = 10;
