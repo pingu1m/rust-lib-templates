@@ -1,4 +1,4 @@
-use your_crate::preludes::*; // Assuming this imports everything needed for basic usage
+use {{ crate_name }}::preludes::*; // Assuming this imports everything needed for basic usage
 
 fn main() {
     let result = sample_function(5);
