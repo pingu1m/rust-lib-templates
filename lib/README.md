@@ -1,7 +1,4 @@
-Here's a sample `README.md` that you can use for your Rust library. This will provide basic information on how to set up the project, use the library, and run the examples included.
-
-```markdown
-# Your Crate Name
+# {{ crate_name }}
 
 Description of your crate goes here. Explain what your library does and why it's useful.
 
@@ -74,12 +71,3 @@ Contributions are welcome! Please feel free to submit pull requests, create issu
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-```
-
-### Notes:
-
-1. **Repository URL**: Replace `https://your-repository-url/your-crate.git` with the actual URL of your repository.
-2. **Dependency Path**: When instructing users to add the crate to their `Cargo.toml`, make sure the path `path_to_your_crate` is correctly set, especially if the crate is not yet published to crates.io.
-3. **Customization**: Adjust the "Features", "Contributing", and other sections based on what your library offers and your plans for community involvement.
-
-This `README.md` should provide a good starting point for users to understand and engage with your Rust library effectively.
